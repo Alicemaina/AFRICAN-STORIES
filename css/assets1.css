@@ -1,3 +1,7 @@
-h2{
- font-family: 'Open Sans', sans-serif;
+h2 {
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    background-image: url(../images/images.jpg);
+    height: 100%;
 }
